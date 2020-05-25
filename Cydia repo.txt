@@ -1,0 +1,22 @@
+# > JB Cydia
+host-suffix,apt.xninja.xyz/, JB Cydia
+host-suffix,apt.bingner.com/, JB Cydia
+host-suffix,getzbra.com/repo/, JB Cydia
+host-suffix,getzbra.com/beta/, JB Cydia
+host-suffix,skitty.xyz/repo/, JB Cydia
+host-suffix,repo.dynastic.co/, JB Cydia
+host-suffix,tigisoftware.com/cydia/, JB Cydia
+host-suffix,apt.geometricsoftware.se/, JB Cydia
+host-suffix,ib-soft.net/cydia/, JB Cydia
+host-suffix,getdelta.co/, JB Cydia
+host-suffix,repo.xsf1re.kr/, JB Cydia
+host-suffix,repo.conorthedev.me/, JB Cydia
+host-suffix,repo.co.kr/, JB Cydia
+host-suffix,opa334.github.io/, JB Cydia
+host-suffix,c1d3r.com/repo/, JB Cydia
+host-suffix,repo.chariz.com/, JB cydia
+host-suffix,limneos.net/repo/, JB Cydia
+host-suffix,cydia.akemi.ai/, JB Cydia
+host-suffix,repo.twickd.com/, JB Cydia
+host-suffix,rpetri.ch/repo/, JB Cydia
+host-suffix,apt.thebigboss.org/repofiles/cydia/, JB Cydia
