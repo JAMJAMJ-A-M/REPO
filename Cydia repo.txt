@@ -20,3 +20,16 @@ host-suffix,cydia.akemi.ai/, JB Cydia
 host-suffix,repo.twickd.com/, JB Cydia
 host-suffix,rpetri.ch/repo/, JB Cydia
 host-suffix,apt.thebigboss.org/repofiles/cydia/, JB Cydia
+host-suffix,rpetri.ch/repo/, JB Cydia
+host-suffix,ib-soft.net/cydia/beta/, JB Cydia
+host-suffix,repo.openpack.io/, JB Cydia
+host-suffix,repo.daus.ch/, JB Cydia
+host-suffix,YulkyTulky.github.io/TweakRepo/, JB Cydia
+host-suffix,repo.lenglengyu.top/, direct
+host-suffix,cydia.ichitaso.com/, JB Cydia
+host-suffix,repo.niceios.com/, direct
+host-suffix,creaturecoding.com/repo/, JB Cydia
+host-suffix,sparkdev.me/, JB Cydia
+host-suffix,apt.25mao.com/, direct
+host-suffix,apt.htv123.com/, direct
+host-suffix,ibreak.yourepo.com/, JB Cydia
