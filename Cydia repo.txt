@@ -1,36 +1,36 @@
 # > JB Cydia
-host-suffix,guofenpai.github.io/, REPO
-host-suffix,apt.xninja.xyz/, REPO
-host-suffix,apt.bingner.com/, REPO
-host-suffix,getzbra.com/repo/, REPO
-host-suffix,getzbra.com/beta/, REPO
-host-suffix,skitty.xyz/repo/, REPO
-host-suffix,repo.dynastic.co/, REPO
-host-suffix,tigisoftware.com/cydia/, REPO
-host-suffix,apt.geometricsoftware.se/, REPO
-host-suffix,ib-soft.net/cydia/, REPO
-host-suffix,getdelta.co/, REPO
-host-suffix,repo.xsf1re.kr/, REPO
-host-suffix,repo.conorthedev.me/, REPO
-host-suffix,repo.co.kr/, REPO
-host-suffix,opa334.github.io/, REPO
-host-suffix,c1d3r.com/repo/, REPO
-host-suffix,repo.chariz.com/, REPO
-host-suffix,limneos.net/repo/, REPO
-host-suffix,cydia.akemi.ai/, REPO
-host-suffix,repo.twickd.com/, REPO
-host-suffix,rpetri.ch/repo/, REPO
-host-suffix,apt.thebigboss.org/repofiles/cydia/, REPO
-host-suffix,rpetri.ch/repo/, REPO
-host-suffix,ib-soft.net/cydia/beta/, REPO
-host-suffix,repo.openpack.io/, REPO
-host-suffix,repo.daus.ch/, REPO
-host-suffix,YulkyTulky.github.io/TweakRepo/, REPO
+host-suffix,guofenpai.github.io/, JB Cydia
+host-suffix,apt.xninja.xyz/, JB Cydia
+host-suffix,apt.bingner.com/, JB Cydia
+host-suffix,getzbra.com/repo/, JB Cydia
+host-suffix,getzbra.com/beta/, JB Cydia
+host-suffix,skitty.xyz/repo/, JB Cydia
+host-suffix,repo.dynastic.co/, JB Cydia
+host-suffix,tigisoftware.com/cydia/, JB Cydia
+host-suffix,apt.geometricsoftware.se/, JB Cydia
+host-suffix,ib-soft.net/cydia/, JB Cydia
+host-suffix,getdelta.co/, JB Cydia
+host-suffix,repo.xsf1re.kr/, JB Cydia
+host-suffix,repo.conorthedev.me/, JB Cydia
+host-suffix,repo.co.kr/, JB Cydia
+host-suffix,opa334.github.io/, JB Cydia
+host-suffix,c1d3r.com/repo/, JB Cydia
+host-suffix,repo.chariz.com/, JB Cydia
+host-suffix,limneos.net/repo/, JB Cydia
+host-suffix,cydia.akemi.ai/, JB Cydia
+host-suffix,repo.twickd.com/, JB Cydia
+host-suffix,rpetri.ch/repo/, JB Cydia
+host-suffix,apt.thebigboss.org/repofiles/cydia/, JB Cydia
+host-suffix,rpetri.ch/repo/, JB Cydia
+host-suffix,ib-soft.net/cydia/beta/, JB Cydia
+host-suffix,repo.openpack.io/, JB Cydia
+host-suffix,repo.daus.ch/, JB Cydia
+host-suffix,YulkyTulky.github.io/TweakRepo/, JB Cydia
 host-suffix,repo.lenglengyu.top/, direct
-host-suffix,cydia.ichitaso.com/, REPO
+host-suffix,cydia.ichitaso.com/, JB Cydia
 host-suffix,repo.niceios.com/, direct
-host-suffix,creaturecoding.com/repo/, REPO
-host-suffix,sparkdev.me/, REPO
+host-suffix,creaturecoding.com/repo/, JB Cydia
+host-suffix,sparkdev.me/, JB Cydia
 host-suffix,apt.25mao.com/, direct
 host-suffix,apt.htv123.com/, direct
 host-suffix,apt.cydiaba.top/, direct
