@@ -12,12 +12,12 @@ host-suffix,ib-soft.net/cydia/, proxy
 host-suffix,getdelta.co/, proxy
 host-suffix,repo.xsf1re.kr/, 🇰🇷 Korea
 host-suffix,repo.conorthedev.me/, proxy
-host-suffix,repo.co.kr/, proxy
+host-suffix,repo.co.kr/, 🇰🇷 Korea
 host-suffix,opa334.github.io/, proxy
 host-suffix,c1d3r.com/repo/, proxy
 host-suffix,repo.chariz.com/, proxy
 host-suffix,limneos.net/repo/, proxy
-host-suffix,cydia.akemi.ai/, proxy
+host-suffix,cydia.akemi.ai/, 🇯🇵 Japan
 host-suffix,repo.twickd.com/, proxy
 host-suffix,rpetri.ch/repo/, proxy
 host-suffix,apt.thebigboss.org/repofiles/cydia/, proxy
@@ -34,3 +34,26 @@ host-suffix,sparkdev.me/, proxy
 host-suffix,apt.25mao.com/, direct
 host-suffix,apt.htv123.com/, direct
 host-suffix,apt.cydiaba.top/, direct
+host-suffix,yourepo.com/, proxy
+host-suffix,github.io/, proxy
+host-suffix,apt.alfhaily.me/, proxy
+host-suffix,repo.anthopak.dev/, proxy
+host-suffix,github.io/repo/, proxy
+host-suffix,apptapp.me/repo/, proxy
+host-suffix,beta.apptapp.me/, proxy
+host-suffix,apt.arx8x.net/, proxy
+host-suffix,apt.autotouch.net, proxy
+host-suffix,repo.applebetas.co/, proxy
+host-suffix,repo.basepack.co/, proxy
+host-suffix,repo.conorthedev.me/, proxy
+host-suffix,repo.cpdigitaldarkroom.com/, proxy
+host-suffix,creaturecoding.com/repo/, proxy
+host-suffix,apt.fouadraheb.com/, proxy
+host-suffix,hacx.org/repo/, proxy
+host-suffix,apt.iarrays.com/, proxy
+host-suffix,repo.kritanta.me/, proxy
+host-suffix,repo.litten.love/, proxy
+host-suffix,ryleyangus.com/repo/, proxy
+host-suffix,repo.supercharge.app/, proxy
+host-suffix,mirrors.kodi.tv/apt/ios/, proxy
+host-suffix,repo.thireus.com/, proxy
