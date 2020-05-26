@@ -1,4 +1,5 @@
 # > JB Cydia
+host-suffix,guofenpai.github.io/, JB Cydia
 host-suffix,apt.xninja.xyz/, JB Cydia
 host-suffix,apt.bingner.com/, JB Cydia
 host-suffix,getzbra.com/repo/, JB Cydia
@@ -32,4 +33,4 @@ host-suffix,creaturecoding.com/repo/, JB Cydia
 host-suffix,sparkdev.me/, JB Cydia
 host-suffix,apt.25mao.com/, direct
 host-suffix,apt.htv123.com/, direct
-host-suffix,ibreak.yourepo.com/, JB Cydia
+host-suffix,apt.cydiaba.top/, direct
