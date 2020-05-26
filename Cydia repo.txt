@@ -15,7 +15,7 @@ host-suffix,repo.conorthedev.me/, JB Cydia
 host-suffix,repo.co.kr/, JB Cydia
 host-suffix,opa334.github.io/, JB Cydia
 host-suffix,c1d3r.com/repo/, JB Cydia
-host-suffix,repo.chariz.com/, JB cydia
+host-suffix,repo.chariz.com/, JB Cydia
 host-suffix,limneos.net/repo/, JB Cydia
 host-suffix,cydia.akemi.ai/, JB Cydia
 host-suffix,repo.twickd.com/, JB Cydia
