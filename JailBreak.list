@@ -57,3 +57,5 @@ host-suffix,ryleyangus.com/repo/, proxy
 host-suffix,repo.supercharge.app/, proxy
 host-suffix,mirrors.kodi.tv/apt/ios/, proxy
 host-suffix,repo.thireus.com/, proxy
+host-suffix,1conan.com, proxy
+host-suffix,netskao.com, proxy
