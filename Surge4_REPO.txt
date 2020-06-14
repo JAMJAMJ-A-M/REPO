@@ -28,12 +28,8 @@ DOMAIN-SUFFIX,repo.daus.ch/, Proxy
 DOMAIN-SUFFIX,YulkyTulky.github.io/TweakRepo/, Proxy
 DOMAIN-SUFFIX,repo.lenglengyu.top/, DIRECT
 DOMAIN-SUFFIX,cydia.ichitaso.com/, Proxy
-DOMAIN-SUFFIX,repo.niceios.com/, DIRECT
 DOMAIN-SUFFIX,creaturecoding.com/repo/, Proxy
 DOMAIN-SUFFIX,sparkdev.me/, Proxy
-DOMAIN-SUFFIX,apt.25mao.com/, DIRECT
-DOMAIN-SUFFIX,apt.htv123.com/, DIRECT
-DOMAIN-SUFFIX,apt.cydiaba.top/, DIRECT
 DOMAIN-SUFFIX,yourepo.com/, Proxy
 DOMAIN-SUFFIX,github.io/, Proxy
 DOMAIN-SUFFIX,apt.alfhaily.me/, Proxy
