@@ -53,3 +53,10 @@ host-suffix,mirrors.kodi.tv/apt/ios/, proxy
 host-suffix,repo.thireus.com/, proxy
 host-suffix,1conan.com, proxy
 host-suffix,shsh.host, proxy
+host-suffix,ios-repo-updates.com, proxy
+host-suffix,unc0ver.dev, proxy
+host-suffix,coolstar.moe, proxy
+host-suffix,coolstar.org, proxy
+host-suffix,altstore.io, proxy
+host-suffix,getflex.co, proxy
+host-suffix,incendo.ws, proxy
