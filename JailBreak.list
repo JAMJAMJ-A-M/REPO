@@ -1,5 +1,4 @@
 # > JB Cydia
-host-suffix,guofenpai.github.io/, proxy
 host-suffix,apt.xninja.xyz/, proxy
 host-suffix,apt.bingner.com/, proxy
 host-suffix,getzbra.com/repo/, proxy
@@ -12,7 +11,6 @@ host-suffix,ib-soft.net/cydia/, proxy
 host-suffix,getdelta.co/, proxy
 host-suffix,repo.conorthedev.me/, proxy
 host-suffix,repo.co.kr/, proxy
-host-suffix,opa334.github.io/, proxy
 host-suffix,c1d3r.com/repo/, proxy
 host-suffix,repo.chariz.com/, proxy
 host-suffix,limneos.net/repo/, proxy
